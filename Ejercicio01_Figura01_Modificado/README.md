@@ -1,13 +1,13 @@
 ---
-title: "3.1.4 Modificación Proceso padre y tres procesos hijos"
-authors: Vanessa Paucar
+title: "3.1 USO DE FORK"
+authors: Daniel Tixicuro
 format:
-  html:
-    embed-resources: true
-    theme: cozy
-    toc: true
-    title-block-banner: "#2c3e50"
-    title-block-banner-color: "white"
+  html:
+    embed-resources: true
+    theme: cozy
+    toc: true
+    title-block-banner: "#2c3e50"
+    title-block-banner-color: "white"   
 ---
 
 # Modificacion de la figura 01
