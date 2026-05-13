@@ -1,5 +1,5 @@
 ---
-title: "3.1.4 Modificación Proceso padre y tres procesos hijos"
+title: "3.3.1 Procesos hijos que enlisten los procesos del sistema usando system."
 authors: Emily Vargas
 format:
   html:
@@ -10,9 +10,9 @@ format:
     title-block-banner-color: "white"
 ---
 
-# Parte 3.3.1 de procesos hijos que enlisten los procesos del sistema usando system
+# Parte 3.3.1 de procesos hijos que enlisten los procesos del sistema usando system.
 
-## ¿QUÉ SE REALIZO?
+## ¿Qué se realizo?
 En lenguaje C dentro de la maquina virtual,  se realizo el programa que tiene como función una  llamada al sistema fork(), con la cual se generó un proceso hijo . Con esto el programa permite que el proceso hijo lleve a cabo una tarea concreta  del sistema antes de que se acabe la ejecución del programa.
 
 ## Funciones utilizadas en el programa
