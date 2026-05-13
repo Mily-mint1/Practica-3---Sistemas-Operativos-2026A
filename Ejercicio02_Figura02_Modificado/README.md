@@ -9,7 +9,6 @@ format:
     title-block-banner: "#2c3e50"
     title-block-banner-color: "white"
 ---
-
 # Modificacion ejercicio 2
 
 ## Cambio de flujo y sincronizaciòn 
@@ -23,4 +22,4 @@ Se gestionan fallos crìticos en la duplicaciòn de procesos mediante el condici
 * **Proceso Hijo:**  Genera un archivo independiente de texto denominado valores.txt para registrar secuencialmente cada uno de los valores.
 
 # Evidencia de Ejecución 
-![](../Imagenes/Ejecucion_Ejercicio02.jpeg){fig-align="center" width="1500x"}
+![](../Imagenes/Ejecucion_Ejercicio02.png){fig-align="center" width="1500x"}
